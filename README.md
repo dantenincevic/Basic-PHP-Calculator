@@ -1,4 +1,5 @@
 # Basic PHP calculator
+Super Simple Calculator Made in PHP 
 
 ## To Do
  - Tidy frontend
