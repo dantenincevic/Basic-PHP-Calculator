@@ -1,6 +1,9 @@
 # Basic PHP calculator
 Super Simple Calculator Made in PHP 
 
+## Packages Used
+ - None at the moment
+
 ## To Do
  - Tidy frontend
 
